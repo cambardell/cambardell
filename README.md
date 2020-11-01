@@ -6,7 +6,7 @@ I'm graduating Spring 2020, so hire me full time starting then. Currently buildi
 Stuff I'm good at: 
 - SwiftUI
 - UIKit
-- Data analysis
+- Data analysis (Python)
 
 Stuff I care about: 
 - Accessibility 
