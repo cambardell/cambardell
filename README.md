@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi, I'm Cameron
+#### I make iOS and Mac apps, and study physics and computer science.
 
-<!--
-**cambardell/cambardell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm graduating Spring 2020, so hire me full time starting then. Currently building some cool stuff for macOS and iOS, coming soon.
 
-Here are some ideas to get you started:
+Stuff I'm good at: 
+- SwiftUI
+- UIKit
+- Data analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Stuff I care about: 
+- Accessibility 
+- Tech for good
+- Mental health advocacy
+
+You can find me on Twitter, my DMs are always open: [@cameronbardell](https://twitter.com/cameronbardell), and I have a portfolio and resume with more contact info [here.](https://cambardell.github.io)
