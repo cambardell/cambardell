@@ -13,4 +13,4 @@ Stuff I care about:
 - Tech for good
 - Mental health advocacy
 
-You can find me on Twitter, my DMs are always open: [@cameronbardell](https://twitter.com/cameronbardell), and I have a portfolio and resume with more contact info [here.](https://cambardell.github.io)
+Find me on Twitter, my DMs are always open: [@cameronbardell](https://twitter.com/cameronbardell). I have a portfolio and resume with more contact info [here.](https://cambardell.github.io)
