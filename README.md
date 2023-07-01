@@ -1,5 +1,5 @@
 ## Hi, I'm Cameron
-#### I help startups build mobile apps. 
+#### I build iOS apps with SwiftUI.
 
-Right now, I'm working with [Palolo](https://palolo.com). Reach out at cameron@robinapps.co for contracting availability!
-Find me on Twitter, my DMs are always open: [@cameronbardell](https://twitter.com/cameronbardell). 
+Right now, I'm working with [MLSE](https://mlse.com). Reach out at cameron@robinapps.co for contracting availability!
+Find me on Twitter [@cameronbardell](https://twitter.com/cameronbardell). 
